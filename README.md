@@ -32,8 +32,8 @@ We created a **clean, responsive online shop** that:
 
 ##  DEMO
 
-🔗 **Live Website on Netlify**: [https://.netlify.app](https://%3Cyour-app%3E.netlify.app)
-🔗 **JSON API on Render**: [https://.onrender.com/products.json](https://%3Cyour-api%3E.onrender.com/products.json)
+🔗 **Live Website on Netlify**: [https://kabzy-luxe.netlify.app/](https://%3Cyour-app%3E.netlify.app)
+🔗 **JSON API on Render**: [https://my-online-shop-api.onrender.com](https://%3Cyour-api%3E.onrender.com/products.json)
 📹 **Video Walkthrough**: [Add YouTube or Google Drive Link]
 
 ---
