@@ -1,0 +1,107 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url(https://t3.ftcdn.net/jpg/01/07/00/50/240_F_107005010_vHGDB9kSbCKY0bYpYkGd9oAhgmSY9f8v.jpg);
+  background-image:url(https://t3.ftcdn.net/jpg/01/07/00/50/240_F_107005010_vHGDB9kSbCKY0bYpYkGd9oAhgmSY9f8v.jpg);
+}
+header {
+  background: #0d1a0d;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+header .logo { 
+  display: flex;
+  align-items: last baseline;
+  justify-content: center;
+  gap: 15px;
+}
+nav a {
+  color: rgb(106, 133, 44);
+  margin: 0 10px;
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+.hero {
+  text-align: center;
+  padding: 20px;
+}
+.products {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+.product {
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px #ccc;
+  text-align: center;
+}
+.product img {
+  width: 150px;
+  height: auto;
+}
+#cart-items {
+  margin: 20px;
+  padding: 15px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 0 5px #ccc;
+}
+.checkout, .feedback {
+  max-width: 500px;
+  margin: 30px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 8px #ccc;
+}
+.checkout h2, .feedback h2 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+.checkout form, .feedback form {
+  display: flex;
+  flex-direction: column;
+}
+.checkout input, .checkout select,
+.feedback input, .feedback textarea {
+  margin-bottom: 15px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+.checkout button, .feedback button {
+  background: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.checkout button:hover, .feedback button:hover {
+  background: #45a049;
+}
+footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  position: sticky;
+  top: 100vh;
+  padding: 20px;
+}
+.socials {
+  margin-top: 10px;
+}
+.socials a {
+  color: #0c8010;
+  text-decoration: sandybrown;
+  margin: 0 8px;
+}
+.socials a:hover {
+  text-decoration: underline;
+}
