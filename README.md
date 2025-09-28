@@ -34,7 +34,7 @@ We created a **clean, responsive online shop** that:
 
 🔗 **Live Website on Netlify**: ["https://kabzy-luxe.netlify.app/"]
 🔗 **JSON API on Render**: ["https://my-online-shop-api.onrender.com"]
-📹 **Video Walkthrough**: [Add YouTube or Google Drive Link]
+📹 **presentation**: ['https://www.canva.com/design/DAG0RJzN734/5VH_0ulmaOgp2V5UrIzIsA/edit?utm_content=DAG0RJzN734&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"]
 
 ---
 
