@@ -32,3 +32,9 @@ window.onload = function() {
     displayCart();
   }
 };
+fetch("https://my-online-shop-api.onrender.com/products.json")
+  .then(res => res.json())
+  .then(data => {
+    console.log(data.products); 
+    // code to render products
+  });
